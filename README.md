@@ -34,13 +34,14 @@ Unspent bundles three independent personal-finance tools into a single, offline-
 
 ## 📸 Screenshots
 
-<!-- Add screenshots here -->
-<!--
-  Example:
-  <img src="docs/screenshots/ledger.png" width="220" />
-  <img src="docs/screenshots/lending.png" width="220" />
-  <img src="docs/screenshots/notes.png" width="220" />
--->
+<div align="center">
+  <img src="_assets/homescreen_01.jpeg" width="220" />
+  <img src="_assets/homescreen_02.jpeg" width="220" />
+  <img src="_assets/budget_01.jpeg" width="220" />
+  <img src="_assets/notes_00.jpeg" width="220" />
+  <img src="_assets/notes_01.jpeg" width="220" />
+  <img src="_assets/notes_02.jpeg" width="220" />
+</div>
 
 ---
 
