@@ -1,0 +1,62 @@
+# Android Studio / IntelliJ
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.idea/
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradle build output
+/build
+/app/build
+.cxx
+.externalNativeBuild
+build/
+*/build/
+
+# Local environment / secrets
+local.properties
+.env
+.env.local
+*.env
+google-services.json
+
+# Keystores & signing
+debug.keystore
+*.jks
+*.keystore
+*.key
+*.p12
+
+# APK / AAB binaries
+apk/
+*.apk
+*.aab
+*.ap_
+
+# Android Studio profiling
+/captures
+*.hprof
+*.log
+*.trace
+
+# Kotlin
+*.kotlin_module
+
+# Misc
+*.class
+*.jar
+*.war
+*.ear
+*.iml.backup

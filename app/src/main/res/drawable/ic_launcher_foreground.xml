@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Faint frosted glow behind the ring -->
+    <path
+        android:pathData="M 38,34 A 23,23 0 1,0 70,38"
+        android:strokeColor="#33BB9AF7"
+        android:strokeWidth="13"
+        android:strokeLineCap="round" />
+
+    <!-- Unspent Mark: Coin ring with 60-degree bite taken out of top-right, forming the letter U -->
+    <path
+        android:pathData="M 38,34 A 23,23 0 1,0 70,38"
+        android:strokeWidth="7"
+        android:strokeLineCap="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="38"
+                android:startY="34"
+                android:endX="70"
+                android:endY="78"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#BB9AF7" />
+                <item android:offset="1.0" android:color="#7AA2F7" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>
