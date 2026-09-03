@@ -1,0 +1,6 @@
+{
+  "name": "Unspent",
+  "description": "A 100% local, high-performance personal lending tracker and wallet balance ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
